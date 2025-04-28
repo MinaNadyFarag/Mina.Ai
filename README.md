@@ -17,7 +17,7 @@
   <a href="https://minanadyfarag.ct.ws"><img alt="Website"
     src="https://img.shields.io/badge/Website-Mina%20Nady-brightgreen?logo=google-chrome&logoColor=white"/></a>
   <br>
-  <a href="https://github.com/MinaNady/Mina.Ai/LICENSE-MODEL"><img alt="License"
+  <a href="https://github.com/MinaNadyFarag/Mina.Ai/LICENSE-MODEL"><img alt="License"
     src="https://img.shields.io/badge/License-MIT-f5de53?&color=f5de53"/></a>
 </div>
 
