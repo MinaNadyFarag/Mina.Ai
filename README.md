@@ -3,7 +3,7 @@
 <!-- markdownlint-disable no-duplicate-header -->
 
 <div align="center">
-  <img src="https://github.com/MinaNadyFarag/Mina.AI/blob/main/figures/logo.svg?raw=true" width="60%" alt="Mina.AI" />
+  <img src="https://github.com/MinaNadyFarag/Mina.Ai/figures/logo.svg?raw=true" width="60%" alt="Mina.AI" />
 </div>
 <hr>
 <div align="center" style="line-height: 1;">
