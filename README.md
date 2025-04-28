@@ -3,12 +3,12 @@
 <!-- markdownlint-disable no-duplicate-header -->
 
 <div align="center">
-  <img src="https://github.com/MinaNadyFarag/Mina.Ai/figures/logo.svg?raw=true" width="60%" alt="Mina.AI" />
+  <img src="figures/logo.png?raw=true" width="60%" alt="Mina.AI" />
 </div>
 <hr>
 <div align="center" style="line-height: 1;">
   <a href="https://minanadyfarag.ct.ws"><img alt="Homepage"
-    src="https://github.com/MinaNady/Mina.AI/blob/main/figures/badge.svg?raw=true"/></a>
+    src="figures/homepage.png?raw=true"/></a>
   <a href="https://menachat.ct.ws"><img alt="Chat"
     src="https://img.shields.io/badge/🤖%20Chat-Mina.AI-536af5?color=536af5&logoColor=white"/></a>
   <br>
