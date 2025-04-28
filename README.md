@@ -12,12 +12,12 @@
   <a href="https://menachat.ct.ws"><img alt="Chat"
     src="https://img.shields.io/badge/🤖%20Chat-Mina.AI-536af5?color=536af5&logoColor=white"/></a>
   <br>
-  <a href="https://github.com/MinaNady"><img alt="GitHub"
+  <a href="https://github.com/MinaNadyFarag"><img alt="GitHub"
     src="https://img.shields.io/badge/GitHub-Mina%20Nady-7289da?logo=github&logoColor=white"/></a>
   <a href="https://minanadyfarag.ct.ws"><img alt="Website"
     src="https://img.shields.io/badge/Website-Mina%20Nady-brightgreen?logo=google-chrome&logoColor=white"/></a>
   <br>
-  <a href="https://github.com/MinaNady/Mina.AI/blob/main/LICENSE"><img alt="License"
+  <a href="https://github.com/MinaNady/Mina.Ai/LICENSE-MODEL"><img alt="License"
     src="https://img.shields.io/badge/License-MIT-f5de53?&color=f5de53"/></a>
 </div>
 
@@ -68,7 +68,7 @@ Future developments for Mina.AI include:
 
 ## 6. License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE-MODEL).
 
 ## 7. Contact
 
